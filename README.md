@@ -3,7 +3,8 @@
   <!-- Suggestion: Use your profile.jpg or a cool coding/cybersecurity GIF -->
 </p>
 
-<h1 align="center">Hi there, I'm Muhammad Izaz Haider 👋</h1>
+<h1 align="center">😊 Hi
+ there, I'm Muhammad Izaz Haider 👋</h1>
 
 <p align="center">
   <strong>Aspiring Penetration Tester | Self Learner | Programmer | Cybersecurity Student | Automater</strong>
@@ -33,7 +34,6 @@
 - 🚀  **Founder & CEO of The PenTrix** : Launching  **Ai-PenTrix-X** , an AI-powered CLI framework
 
 * 🎓  **Continuous Learner** : Mastering web pentesting, red teaming, and security automation
-* 🌐  **Community Advocate** : Sharing insights via blogs, CTF write-ups & mentoring
 * 💡  **Core Belief** : “If you don’t have opportunities…create them.”
 
 <p align="center">
