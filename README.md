@@ -26,7 +26,7 @@
 ## 👤 About Me
 
 - 🤲  **Guided by Faith** : “هَذَا مِن فَضْلِ رَبِّي” — All through the Grace of Allah
-- 😎 **I break things to make them stronger.**
+- 😎 **I break things to make them stronger in ethical ways.**
 - 🔐  **Ethical Hacker on a Mission** : Built my skills from zero guidance using passion, research & faith
 - 🤖 **I build AI-powered tools** that automate security workflows.
 - 🚀 **I launch open-source projects** (Ai-CMD-X, Ai-Terminal-X) that empower fellow hackers.
