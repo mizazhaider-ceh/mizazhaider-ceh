@@ -1,44 +1,42 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U1M3ExbWE0cGpydGFmemJnNWMyOGFwcnNrYWtxZW5tbjVvenA4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" alt="Muhammad Izaz Haider - Cybersecurity & AI Enthusiast" width="500"/>
-  <!-- Suggestion: Use your profile.jpg or a cool coding/cybersecurity GIF -->
 </p>
 
-<h1 align="center">😊 Hi
- there, I'm Muhammad Izaz Haider 👋</h1>
+<h1 align="center">😊 Hi there, I'm Muhammad Izaz Haider 👋</h1>
 
 <p align="center">
-  <strong>Aspiring Penetration Tester | Self Learner | Programmer | Cybersecurity Student | Automater</strong>
+  <strong>Penetration Tester | Junior DevSecOps & Ai Security Engineer | Cybersecurity Student </strong>
 <br>
-  <em>Passionate Ethical Hacker and AI Automation tool Developer.</em>
+  <em>Passionate Ethical Hacker and AI Automation Tool Developer.</em>
   <br>
   <em>Driven by a mission to build secure systems and innovative tools. Continuously learning and pushing boundaries in tech.</em>
-  <br>
-
 </p>
 
 <p align="center">
  <a href="https://mizazhaider-ceh.github.io/My-Portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Full%20Portfolio-007BFF?style=for-the-badge&logo=world&logoColor=white" alt="View Full Portfolio"/>
   </a>
-
 </p>
+
+---
 
 ## 👤 About Me
 
-- 🤲  **Guided by Faith** : “هَذَا مِن فَضْلِ رَبِّي” — All through the Grace of Allah
+- 🤲 **Guided by Faith**: "هَذَا مِن فَضْلِ رَبِّي" — All through the Grace of Allah
 - 😎 **I break things to make them stronger in ethical ways.**
-- 🔐  **Ethical Hacker on a Mission** : Built my skills from zero guidance using passion, research & faith
-- 🤖 **I build AI-powered tools** that automate security workflows.
-- 🚀 **I launch open-source projects** (Ai-CMD-X, Ai-Terminal-X) that empower fellow hackers.
-- 🌐 **I share knowledge** via blogs, CTF write-ups, and community mentoring.
-- 🚀  **Founder & CEO of The PenTrix** : Launching  **Ai-PenTrix-X** , an AI-powered CLI framework
-
-* 🎓  **Continuous Learner** : Mastering web pentesting, red teaming, and security automation
-* 💡  **Core Belief** : “If you don’t have opportunities…create them.”
+- 🔐 **Ethical Hacker on a Mission**: Built my skills from zero guidance using passion, research & faith
+- 🤖 **I build AI-powered tools** that automate security workflows
+- 🚀 **I launch open-source projects** (Ai-CMD-X, Ai-Terminal-X) that empower fellow hackers
+- 🌐 **I share knowledge** via blogs, CTF write-ups, and community mentoring
+- 🏢 **Founder & CEO of The PenTrix**: Launching **Ai-PenTrix-X**, an AI-powered CLI framework
+- 🎓 **Continuous Learner**: Mastering web pentesting, red teaming, and security automation
+- 💡 **Core Belief**: "If you don't have opportunities… create them."
 
 <p align="center">
-  <em style="color: #ff8c00;">“Hack Ethicaly, Code fearlessly, defend relentlessly.”</em>
+  <em style="color: #ff8c00;">"Hack Ethically, Code Fearlessly, Defend Relentlessly."</em>
 </p>
+
+---
 
 ## 🛠️ My Skill Command Center
 
@@ -56,7 +54,7 @@ Here's a snapshot of the technologies and methodologies I command:
   <img src="https://img.shields.io/badge/Vulnerability_Assessment-D93A3D?style=for-the-badge" alt="Vulnerability Assessment"/>
 </p>
 
-### **🤖 AI & Automation Development:**
+### **🤖 AI & Automation Development**
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_Tool_Development-4CAF50?style=for-the-badge&logo=openai&logoColor=white" alt="AI Tool Development"/>
@@ -64,7 +62,7 @@ Here's a snapshot of the technologies and methodologies I command:
   <img src="https://img.shields.io/badge/Process_Automation-2196F3?style=for-the-badge" alt="Process Automation"/>
 </p>
 
-### **💻 Core Programming Languages:**
+### **💻 Core Programming Languages**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -75,7 +73,7 @@ Here's a snapshot of the technologies and methodologies I command:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
-### **🧠 Foundational Traits:**
+### **🧠 Foundational Traits**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Self_Learning-FFD700?style=for-the-badge&logoColor=black" alt="Self-Learning"/>
@@ -85,17 +83,19 @@ Here's a snapshot of the technologies and methodologies I command:
 
 </div>
 
+---
+
 ## 📊 My GitHub Stats
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizazhaider-ceh&theme=github_dark" alt="[Your Name]'s GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mizazhaider-ceh&theme=github_dark" alt="Muhammad Izaz Haider's GitHub Stats"/>
 </div>
 
-</p>
-<!-- Optional: Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mizazhaider-ceh&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-</p> -->
+</p>
+
+---
 
 ## 🔗 Let's Connect!
 
@@ -108,13 +108,15 @@ I'm always open to discussing new projects, collaborations, or sharing knowledge
   <a href="mailto:mizazhaiderceh@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me"/>
   </a>
-   <a href="https://wa.me/923066150249" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-%25252025D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <a href="https://wa.me/923066150249" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-   <a href="https://buymeacoffee.com/mizazhaider" target="_blank">
+  <a href="https://buymeacoffee.com/mizazhaider" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <em>Continuously evolving and building a secure digital future.</em>
