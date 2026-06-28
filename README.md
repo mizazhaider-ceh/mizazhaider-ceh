@@ -22,7 +22,7 @@
   <a href="https://github.com/mizazhaider-ceh?tab=followers">
     <img src="https://img.shields.io/github/followers/mizazhaider-ceh?label=Followers&style=for-the-badge&color=8b5cf6" alt="Followers"/>
   </a>
-  <img src="https://img.shields.io/badge/Status-Available_for_Engagements-22c55e?style=for-the-badge" alt="Status"/>
+  <img src="https://img.shields.io/badge/Open_to-Entry_%2F_Junior_Roles-22c55e?style=for-the-badge" alt="Open to work"/>
 </p>
 
 <p align="center">
@@ -176,6 +176,26 @@ flowchart LR
 <p align="center">
   <img src="https://raw.githubusercontent.com/mizazhaider-ceh/mizazhaider-ceh/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
+
+---
+
+## 🎯 Open To Work
+
+<div align="center">
+  <img src="https://img.shields.io/badge/💼_Available_for-Entry--Level_%2F_Junior_Roles-22c55e?style=for-the-badge" alt="Available"/>
+</div>
+
+> I'm actively looking for **entry-level / junior** opportunities in:
+> **Penetration Testing · Security Analysis · Application Security · Bug Bounty · AI Security**
+
+**What I bring on day one** — and what I'm hungry to grow into:
+
+- ✅ **Can do now:** Web / Network / System pentesting, recon & enumeration, OWASP Top 10, Burp & Nmap workflows, Python/Bash tooling, clear reporting
+- 📈 **Fast learner:** I pick up new tools, stacks, and attack techniques quickly and put them straight into practice — self-taught from zero is proof
+- 🤝 **Mindset:** curious, coachable, and reliable — I take ownership, document everything, and ask the right questions
+- 🌍 **Flexible:** open to **Remote · Hybrid · On-site** · internships, part-time, or full-time
+
+<p align="center"><em>Give me a target and a goal — I'll learn whatever it takes to reach it.</em></p>
 
 ---
 
