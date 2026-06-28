@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mizazhaider-ceh.github.io/My-Portfolio/" target="_blank">
+  <a href="https://www.mizazhaider-ceh.dev/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Full_Portfolio-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammad-izaz-haider-091639314/" target="_blank">
