@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MUHAMMAD%20IZAZ%20HAIDER&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=aka%20The%20PenTrix%20%E2%80%A2%20Cybersecurity%20Explorer&descAlignY=58&descSize=18&descColor=88ffcc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MUHAMMAD%20IZAZ%20HAIDER&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=aka%20The%20PenTrix%20%E2%80%A2%20Hacker%20%7C%20Builder%20%7C%20Breaker&descAlignY=58&descSize=18&descColor=88ffcc" />
 
 <div align="center">
 
@@ -29,10 +29,9 @@ class Izaz:
 ```
 
 - 🔓 **Penetration Tester** — Web, Network & System
-- 🤖 Exploring **AI × Offensive Security** — building tools like Auth-Hunter, CyberMap, DNSProbe
+- 🤖 Building **AI × Offensive Security** tooling
 - 🔬 Documenting **digital forensics labs** — chain of custody, disk imaging, hash verification
 - 👾 Studying **reverse engineering & malware analysis**
-- 🌱 Currently mastering: low-level systems, automation, and offensive tooling
 - ⚡ Fun fact: I once proved that *just mounting a disk* destroys evidence — with math
 
 ---
@@ -40,39 +39,38 @@ class Izaz:
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,linux,bash,git,github,vscode,windows,kali&theme=dark" />
-<br/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,js,linux,bash,docker,git,github,vscode,windows,kali&theme=dark" />
+<br/><br/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Digital_Forensics-00ffcc?style=for-the-badge&logo=shield&logoColor=black" />
-<img src="https://img.shields.io/badge/Reverse_Engineering-ff5555?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Digital_Forensics-00ffcc?style=for-the-badge&logo=shield&logoColor=black" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-ff5555?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## ⚔️ Featured Projects
 
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mizazhaider-ceh&show_icons=true&theme=dark&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" />
-<img height="180em" src="https://streak-stats.demolab.com?user=mizazhaider-ceh&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&currStreakLabel=00ffcc&sideNums=00ffcc" />
-</div>
-
-<div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mizazhaider-ceh&layout=compact&theme=dark&title_color=00ffcc&text_color=c9d1d9&bg_color=0d1117&hide_border=true&border_radius=10" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mizazhaider-ceh&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
+| | |
+|---|---|
+| **[Ai-Terminal-X](https://github.com/mizazhaider-ceh/Ai-Terminal-X)** 🔥<br/>AI-powered Linux terminal assistant — turns natural language into executable commands with safe-execution checks.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/Ai-Terminal-X?style=flat-square&color=00ffcc) ![lang](https://img.shields.io/github/languages/top/mizazhaider-ceh/Ai-Terminal-X?style=flat-square&color=3776AB) | **[Intel-Scan](https://github.com/mizazhaider-ceh/Intel-Scan)**<br/>OSINT framework with a fast scriptable CLI and an intuitive web GUI for visual analysis and reporting.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/Intel-Scan?style=flat-square&color=00ffcc) ![lang](https://img.shields.io/github/languages/top/mizazhaider-ceh/Intel-Scan?style=flat-square&color=3776AB) |
+| **[Ai-CMD-X](https://github.com/mizazhaider-ceh/Ai-CMD-X)**<br/>Turns plain English into real Windows commands — a smarter, beginner-friendly terminal.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/Ai-CMD-X?style=flat-square&color=00ffcc) ![lang](https://img.shields.io/github/languages/top/mizazhaider-ceh/Ai-CMD-X?style=flat-square&color=3776AB) | **[active-automation](https://github.com/mizazhaider-ceh/active-automation)**<br/>Bash-powered Nmap automation for active recon — customizable scans from basic to advanced.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/active-automation?style=flat-square&color=00ffcc) ![lang](https://img.shields.io/github/languages/top/mizazhaider-ceh/active-automation?style=flat-square&color=4EAA25) |
+| **[KeyGen-X](https://github.com/mizazhaider-ceh/KeyGen-X)**<br/>Lightweight C++ tool for secure key generation & validation — cross-platform, open-source.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/KeyGen-X?style=flat-square&color=00ffcc) ![lang](https://img.shields.io/github/languages/top/mizazhaider-ceh/KeyGen-X?style=flat-square&color=00599C) | **[Pentest-Lab-Setup](https://github.com/mizazhaider-ceh/Pentest-Lab-Setup)**<br/>Full guide to building a pentest lab: VirtualBox, Parrot OS, Metasploitable 2 — from zero to hacking legally.<br/>![stars](https://img.shields.io/github/stars/mizazhaider-ceh/Pentest-Lab-Setup?style=flat-square&color=00ffcc) |
 
 ---
 
-## 📈 Activity Graph
+## 📊 Stats
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mizazhaider-ceh&theme=github-compact&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mizazhaider-ceh&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&currStreakLabel=00ffcc&sideNums=00ffcc" />
 </div>
 
 ---
@@ -85,13 +83,18 @@ class Izaz:
 
 ---
 
-## 🎯 Currently
+## 🖥️ Current Focus
 
-- 🔓 **Offensive security tooling** — scanners, brute-forcers, recon automation
-- 🔬 **Forensic Analysis** — physical disk imaging, write blockers, hash chains
-- 🤖 **AI × Security** — intelligent automation for pentesting workflows
-- 📝 Documenting every lab as a beautiful, in-depth GitHub write-up
-- 🤝 Open to collaborating on **CTFs, security tooling, and research**
+```
+┌─[izaz@pentrix]─[~]
+└──╼ $ cat current_focus.txt
+
+  [•] Offensive security tooling — scanners, recon automation
+  [•] Forensic Analysis — disk imaging, write blockers, hash chains
+  [•] AI × Security — intelligent pentesting workflows
+  [•] Documenting every lab as an in-depth GitHub write-up
+  [•] Open to collabs: CTFs, security tooling, research
+```
 
 ---
 
