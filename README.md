@@ -1,4 +1,4 @@
-<img width="100%" src="./assets/banner.png" alt="The PenTrix banner" />
+<img width="100%" src="./light.svg" alt="Muhammad Izaz Haider - profile.sh --live" />
 
 <div align="center">
 
