@@ -1,8 +1,17 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=MUHAMMAD%20IZAZ%20HAIDER&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=aka%20The%20PenTrix%20%E2%80%A2%20Hacker%20%7C%20Builder%20%7C%20Breaker&descAlignY=58&descSize=18&descColor=88ffcc" />
+<img width="100%" src="./assets/banner.png" alt="The PenTrix banner" />
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=650&lines=Penetration+Tester+%F0%9F%94%93;Web+%E2%80%A2+Network+%E2%80%A2+System+%F0%9F%8C%90;AI+%C3%97+Offensive+Security+%F0%9F%A4%96;Founder+%40+The+PenTrix+%E2%9A%A1;BSc+Cybersecurity+%40+Howest+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizazhaider-ceh)
+[![Projects](https://img.shields.io/badge/Projects-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizazhaider-ceh?tab=repositories)
+[![Stats](https://img.shields.io/badge/Stats-7B2FF7?style=for-the-badge&logo=githubactions&logoColor=white)](#-stats)
+[![Connect](https://img.shields.io/badge/Connect-00CC99?style=for-the-badge&logo=signal&logoColor=white)](#-connect-with-me)
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=mizazhaider-ceh&label=Profile%20views&color=00ffcc&style=flat" alt="profile views" />
 <img src="https://img.shields.io/github/followers/mizazhaider-ceh?label=Followers&style=flat&color=00ffcc" alt="followers" />
@@ -11,48 +20,40 @@
 
 ---
 
-## 👾 About Me
+## 💻 About Me
 
-```python
-class Izaz:
-    def __init__(self):
-        self.name = "Muhammad Izaz Haider"
-        self.alias = "The PenTrix"
-        self.role = "Penetration Tester"
-        self.school = "BSc Cybersecurity @ Howest 🇧🇪"
-        self.domains = ["Web 🌐", "Network 🛜", "System 🖥️"]
-        self.focus = ["AI x Offensive Security 🤖", "Digital Forensics 🔬", "Reverse Engineering 👾"]
-        self.motto = "Understand the system. Then secure it."
-
-    def daily_routine(self):
-        return ["☕ coffee", "💻 hack", "📚 learn", "🔁 repeat"]
 ```
+~/whoami
 
-- 🔓 **Penetration Tester** — Web, Network & System
-- 🤖 Building **AI × Offensive Security** tooling
-- 🔬 Documenting **digital forensics labs** — chain of custody, disk imaging, hash verification
-- 👾 Studying **reverse engineering & malware analysis**
-- ⚡ Fun fact: I once proved that *just mounting a disk* destroys evidence — with math
+$ cat about.txt
+
+Hi, I'm Muhammad Izaz Haider, aka The PenTrix.
+I break into systems (legally) and build tools that live
+somewhere between AI and offensive security.
+
+  → Penetration Tester      ·  Web / Network / System
+  → BSc Cybersecurity       ·  Howest University 🇧🇪
+  → Currently deep in       ·  digital forensics, reverse engineering,
+                               and making machines do my recon for me
+
+$ echo $MOTTO
+"We cannot secure what we do not understand."
+```
 
 ---
 
 ## 🛠️ Tech Arsenal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,linux,bash,docker,git,github,vscode,windows,kali&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,c,linux,bash,git,github,vscode,windows,kali&theme=dark" />
 <br/><br/>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+<img src="https://img.shields.io/badge/Digital_Forensics-00ffcc?style=for-the-badge&logo=shield&logoColor=black" />
+<img src="https://img.shields.io/badge/Reverse_Engineering-ff5555?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Digital_Forensics-00ffcc?style=for-the-badge&logo=shield&logoColor=black" />
-<img src="https://img.shields.io/badge/Reverse_Engineering-ff5555?style=for-the-badge&logo=bugcrowd&logoColor=white" />
 </div>
 
 ---
@@ -111,10 +112,6 @@ class Izaz:
 ---
 
 <div align="center">
-
-### 💭 Philosophy
-
-> *"We cannot secure what we do not understand."*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
