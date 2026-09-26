@@ -94,7 +94,11 @@ Currently: bug bounty hunter, AI security researcher, and full-time *"why does t
 ## 🐍 Watch the Snake Eat My Contributions
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mizazhaider-ceh/mizazhaider-ceh/output/github-snake.svg" alt="snake animation" />
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mizazhaider-ceh/mizazhaider-ceh/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mizazhaider-ceh/mizazhaider-ceh/output/github-snake.svg" />
+<img src="https://raw.githubusercontent.com/mizazhaider-ceh/mizazhaider-ceh/output/github-snake.svg" alt="snake eating my contributions" />
+</picture>
 </div>
 
 ---
