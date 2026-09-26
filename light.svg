@@ -94,8 +94,8 @@
 <text x="1136" y="280" font-size="14" text-anchor="end" fill="#0F172A">BSc Cybersecurity @ Howest</text>
 <line x1="577.6" y1="276" x2="907.6" y2="276" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 6"/>
 <text x="492" y="316" font-size="14" fill="#0E7490">Focus</text>
-<text x="1136" y="316" font-size="14" text-anchor="end" fill="#0F172A">Deep Systems · Pentesting · Forensics</text>
-<line x1="544.0" y1="312" x2="815.2" y2="312" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 6"/>
+<text x="1136" y="316" font-size="14" text-anchor="end" fill="#0F172A">Pentesting · AI · Defensive</text>
+<line x1="544.0" y1="312" x2="899.2" y2="312" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 6"/>
 <text x="492" y="352" font-size="14" fill="#0E7490">ToolChain</text>
 <text x="1136" y="352" font-size="14" text-anchor="end" fill="#0F172A">VS Code · Git · Kali Linux</text>
 <line x1="577.6" y1="348" x2="907.6" y2="348" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" stroke-dasharray="0.1 6"/>

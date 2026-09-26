@@ -1,4 +1,4 @@
-<img width="100%" src="./light.svg?v=2" alt="Muhammad Izaz Haider - profile.sh --live" />
+<img width="100%" src="./light.svg?v=3" alt="Muhammad Izaz Haider - profile.sh --live" />
 
 <div align="center">
 
