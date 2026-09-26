@@ -28,13 +28,19 @@
 $ cat about.txt
 
 Hi, I'm Muhammad Izaz Haider, aka The PenTrix.
-I break into systems (legally) and build tools that live
-somewhere between AI and offensive security.
+Offensive + defensive security, deep systems. I break into
+things legally, then build tools that find the cracks faster.
 
-  → Penetration Tester      ·  Web / Network / System
-  → BSc Cybersecurity       ·  Howest University 🇧🇪
-  → Currently deep in       ·  digital forensics, reverse engineering,
-                               and making machines do my recon for me
+  → BSc Cybersecurity @ Howest 🇧🇪, now in Year 3:
+    Advanced Pentesting · Digital Forensics ·
+    Reverse Engineering & Malware Analysis · CyberOps
+  → Top grades across Year 1-2:
+    18/20 Programming · 18/20 Computer Architecture & OS ·
+    18/20 Web Backend · 17/20 Web Pentesting ·
+    17/20 Capture the Flag · 17/20 Linux for Ethical Hackers ·
+    17/20 Computer Networks
+  → Founder @ The PenTrix — building AI x offensive security:
+    intelligent terminals, scanners, recon automation
 
 $ echo $MOTTO
 "We cannot secure what we do not understand."
