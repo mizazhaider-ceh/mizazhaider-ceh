@@ -20,31 +20,40 @@
 
 ---
 
-## 💻 About Me
+## 👾 About Me
 
-```
-~/whoami
+**I break things for a living.** Mostly web apps. Occasionally my own sleep schedule. 🌙
 
-$ cat about.txt
+Currently: bug bounty hunter, AI security researcher, and full-time *"why does this parameter behave weird"* investigator. 🔍
 
-Hi, I'm Muhammad Izaz Haider, aka The PenTrix.
-Offensive + defensive security, deep systems. I break into
-things legally, then build tools that find the cracks faster.
+### ⚡ What I do when I'm not sleeping
 
-  → BSc Cybersecurity @ Howest 🇧🇪, now in Year 3:
-    Advanced Pentesting · Digital Forensics ·
-    Reverse Engineering & Malware Analysis · CyberOps
-  → Top grades across Year 1-2:
-    18/20 Programming · 18/20 Computer Architecture & OS ·
-    18/20 Web Backend · 17/20 Web Pentesting ·
-    17/20 Capture the Flag · 17/20 Linux for Ethical Hackers ·
-    17/20 Computer Networks
-  → Founder @ The PenTrix — building AI x offensive security:
-    intelligent terminals, scanners, recon automation
+🐛 **Bug Bounty @ YesWeHack** — I find vulnerabilities in production systems and report them responsibly. My 3AM discoveries, now with official recognition. 🏆
 
-$ echo $MOTTO
-"We cannot secure what we do not understand."
-```
+🔴 **Penetration Testing** — Started with networks. Broke some things. Moved to systems. Broke more things. Then discovered web apps and never fully recovered. 🕸️
+- 🌐 **Web** → OWASP Top 10, Burp Suite, manual testing, finding what scanners miss
+- 🖥️ **System** → privilege escalation, misconfigurations, post-exploitation basics
+- 🔌 **Network** → reconnaissance, enumeration, service fingerprinting, *nmap goes brrr* 📡
+
+🛡️ **Defence arc: loading…** — I started with the attacker part. Now going deep on the defensive side too, because the best defenders think like attackers first. ⚔️
+
+🤖 **AI × Offensive Security** — What happens when you point AI at security problems? Interesting things. What happens when someone attacks the AI itself? *Even more interesting.* I research both. Send help. 🆘
+
+📖 **The PenTrix** — my initiative. Tutorials, tools, write-ups and roadmaps for the next generation of security researchers, worldwide. 🌍
+
+### 🎓 Surprisingly also a student
+
+📍 **BSc Cybersecurity @ Howest** 🇧🇪 — **60/60 ECTS in the very first attempt.** No retakes. 5 of my top scores landed in the 2nd semester: 18/20 in Programming, Computer Architecture & OS and Web Backend · 17/20 in Web Pentesting, Capture the Flag, Linux for Ethical Hackers and Networks. Vibes + hard work. 💪 *Alhamdulilah* ✨
+
+> *Somewhere between "junior researcher" and "person who knows too much about how your login page works."* 👀
+
+### 🤝 Open to
+
+- 🐛 Bug bounty collabs
+- 🤖 AI × security research
+- 🔴 Offensive security internships & junior roles
+- 🛡️ Defensive security projects (new arc!)
+- 📩 **mizazhaiderceh@gmail.com**
 
 ---
 
@@ -110,6 +119,7 @@ $ echo $MOTTO
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizazhaider--ceh-181717?style=for-the-badge&logo=github)](https://github.com/mizazhaider-ceh)
+[![Email](https://img.shields.io/badge/Email-mizazhaiderceh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mizazhaiderceh@gmail.com)
 
 *The best way to reach me is right here on GitHub — open an issue, start a discussion, or just say hi. 👋*
 
