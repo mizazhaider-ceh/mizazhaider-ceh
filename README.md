@@ -123,6 +123,7 @@ Currently: bug bounty hunter, AI security researcher, and full-time *"why does t
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizazhaider--ceh-181717?style=for-the-badge&logo=github)](https://github.com/mizazhaider-ceh)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mizazhaider--ceh.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mizazhaider-ceh.dev/)
 [![Email](https://img.shields.io/badge/Email-mizazhaiderceh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mizazhaiderceh@gmail.com)
 
 *The best way to reach me is right here on GitHub — open an issue, start a discussion, or just say hi. 👋*
